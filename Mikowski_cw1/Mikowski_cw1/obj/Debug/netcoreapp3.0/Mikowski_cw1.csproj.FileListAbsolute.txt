@@ -1,0 +1,11 @@
+C:\Mikowski_cw1\Mikowski_cw1\bin\Debug\netcoreapp3.0\Mikowski_cw1.exe
+C:\Mikowski_cw1\Mikowski_cw1\bin\Debug\netcoreapp3.0\Mikowski_cw1.deps.json
+C:\Mikowski_cw1\Mikowski_cw1\bin\Debug\netcoreapp3.0\Mikowski_cw1.runtimeconfig.json
+C:\Mikowski_cw1\Mikowski_cw1\bin\Debug\netcoreapp3.0\Mikowski_cw1.runtimeconfig.dev.json
+C:\Mikowski_cw1\Mikowski_cw1\bin\Debug\netcoreapp3.0\Mikowski_cw1.dll
+C:\Mikowski_cw1\Mikowski_cw1\bin\Debug\netcoreapp3.0\Mikowski_cw1.pdb
+C:\Mikowski_cw1\Mikowski_cw1\obj\Debug\netcoreapp3.0\Mikowski_cw1.csprojAssemblyReference.cache
+C:\Mikowski_cw1\Mikowski_cw1\obj\Debug\netcoreapp3.0\Mikowski_cw1.AssemblyInfoInputs.cache
+C:\Mikowski_cw1\Mikowski_cw1\obj\Debug\netcoreapp3.0\Mikowski_cw1.AssemblyInfo.cs
+C:\Mikowski_cw1\Mikowski_cw1\obj\Debug\netcoreapp3.0\Mikowski_cw1.dll
+C:\Mikowski_cw1\Mikowski_cw1\obj\Debug\netcoreapp3.0\Mikowski_cw1.pdb
